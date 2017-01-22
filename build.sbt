@@ -36,7 +36,7 @@ organization := "io.surfkit"
 
 scalaVersion := "2.11.6"
 
-crossScalaVersions := Seq("2.10.4", "2.11.5")
+crossScalaVersions := Seq("2.10.4", "2.11.5", "2.12.1")
 
 libraryDependencies ++= Seq(
   "org.scala-js" %%% "scalajs-dom" % "0.9.0"
