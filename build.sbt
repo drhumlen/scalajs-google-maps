@@ -34,7 +34,7 @@ version := "0.0.2"
 
 organization := "io.surfkit"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.12.1"
 
 crossScalaVersions := Seq("2.10.4", "2.11.5", "2.12.1")
 
